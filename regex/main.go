@@ -20,8 +20,8 @@ func main() {
 		return
 	}
 
-	fmt.Println(fmt.Sprintf("First part of word: %s\n", matches["first_part_of_word"]))
-	fmt.Println(fmt.Sprintf("Second part of word: %s\n", matches["second_part_of_word"]))
+	fmt.Println(fmt.Sprintf("First part of word: %s", matches["first_part_of_word"]))
+	fmt.Println(fmt.Sprintf("Second part of word: %s", matches["second_part_of_word"]))
 	fmt.Println(fmt.Sprintf("Result: %s%s", matches["first_part_of_word"], matches["second_part_of_word"]))
 }
 
