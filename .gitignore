@@ -21,3 +21,5 @@ bin/*
 
 zip/test.zip
 unzip/test/*
+
+.DS_Store
