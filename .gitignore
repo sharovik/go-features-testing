@@ -17,7 +17,7 @@ vendor/
 # Idea settings
 .idea
 
-bin/*
+cross-compile/bin/*
 
 zip/test.zip
 unzip/test/*
